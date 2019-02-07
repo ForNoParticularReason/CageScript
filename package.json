@@ -1,0 +1,39 @@
+{
+  "name": "cagescript",
+  "version": "1.0.0",
+  "description": "Ladies and gentleman, this is your pilot speaking, I'm not felling very well, I'm losing control of the plane.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForNoParticularReason/CageScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForNoParticularReason/CageScript/issues"
+  },
+  "homepage": "https://github.com/ForNoParticularReason/CageScript#readme",
+  "dependencies": {
+    "fluture": "^10.2.0",
+    "fluture-sanctuary-types": "^2.2.2",
+    "fs-extra": "^7.0.0",
+    "ramda-adjunct": "^2.9.0",
+    "ramda-fantasy": "^0.8.0",
+    "sanctuary": "^0.15.0",
+    "shelljs": "^0.8.2",
+    "sinon": "^6.1.5",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.3",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
